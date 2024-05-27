@@ -1,0 +1,46 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    margin: 0; padding: 0;
+}
+.button{
+    padding: 20px;
+    margin: 0px 3px;
+    border: 2px solid black; border-radius: 9px;
+    cursor: pointer;
+}
+.row{
+    margin:4px 4px;
+}
+.row input{
+    font-size: 20px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 9px;
+}
+
+
+.text{
+    text-align: center;
+}
+.bg-black{
+    background-color: black;
+}
+.mx-auto{
+    margin: auto;
+}
+
+.m-w-30{
+    max-width: 37vw;
+}
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.items-center{
+    align-items: center;
+}
